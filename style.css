@@ -140,20 +140,20 @@ nav.sticky .menu-btn{
   margin-left: -3px;
 }
 .home .text-two:hover{
-  color: #0ca0f5;
-  font-size: 75px;
+  color: #0E2431;
+  font-size: 85px;
   font-weight: 600;
   margin-left: -3px;
 }
 .home .text-three{
   font-size: 40px;
   margin: 5px 0;
-  color: #17f3f3;
+  color: #0E2431;
 }
 .home .text-three:hover{
   font-size: 45px;
   margin: 5px 0;
-  color: #0E2431;
+  color: #0ca0f5;
 }
 .home .text-four{
   font-size: 23px;
