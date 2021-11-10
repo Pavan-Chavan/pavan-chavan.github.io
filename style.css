@@ -129,8 +129,18 @@ nav.sticky .menu-btn{
   font-size: 25px;
   color: #0E2431;
 }
+.home .text-one:hover{
+  font-size: 30px;
+  color: #0ca0f5;
+}
 .home .text-two{
   color: #0E2431;
+  font-size: 80px;
+  font-weight: 600;
+  margin-left: -3px;
+}
+.home .text-two:hover{
+  color: #0ca0f5;
   font-size: 75px;
   font-weight: 600;
   margin-left: -3px;
@@ -138,12 +148,22 @@ nav.sticky .menu-btn{
 .home .text-three{
   font-size: 40px;
   margin: 5px 0;
-  color: #4070f4;
+  color: #17f3f3;
+}
+.home .text-three:hover{
+  font-size: 45px;
+  margin: 5px 0;
+  color: #0E2431;
 }
 .home .text-four{
   font-size: 23px;
   margin: 5px 0;
   color: #0E2431;
+}
+.home .text-four:hover{
+  font-size: 28px;
+  margin: 5px 0;
+  color: #4070f4;
 }
 .home .button{
   margin: 14px 0;
