@@ -370,24 +370,21 @@ header .navbar ul li a:hover{
     display: none;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.watermark img {
+    width: 100%;
+  }
+  .watermark {
+    position: relative;
+  }
+  .watermark::after {
+    content: 'TAP TO VIEW';
+    position: absolute;
+    bottom: 20px;
+    right: 70px;
+    opacity: 0.5;
+    font-size: 1.5em;
+  }
+ 
 /* media queries  */
 
 @media (max-width:1200px){
