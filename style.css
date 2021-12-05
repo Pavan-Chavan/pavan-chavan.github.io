@@ -162,19 +162,19 @@ header .navbar ul li a:hover {
     background: black;
     position: relative;
     animation-name: animation1;
-    animation-duration: 1s;
-    animation-delay: 1s;
+    animation-duration: 3s;
+    animation-delay: 2s;
     animation-fill-mode: both;
 }
 
 @keyframes animation1 {
     from {
-        top: 100px;
+        left: 100px;
         background-color: black;
     }
 
     to {
-        top: 0px;
+        left: 0px;
         background-color: black;
     }
 }
